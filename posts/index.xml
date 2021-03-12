@@ -14,7 +14,7 @@
             <pubDate>Fri, 12 Mar 2021 08:47:11 +0100</pubDate>
             
             <guid>https://krr0ption.com/posts/2021/03/my-first-post/</guid>
-            <description>First posts Programming C programming #include &amp;lt;stdio.h&amp;gt; int main(int argc,char* argv[]){ printf(&amp;#34;hello world bitch&amp;#34;); return EXIT_SUCCESFULLY; } Python programming # prime numbers are greater than 1 if num &amp;gt; 1: # check for factors for i in range(2, num): if (num % i) == 0: # if factor is found, set flag to True flag = True # break out of loop break # check if flag is True if flag: print(num, &amp;#34;is not a prime number&amp;#34;) else: print(num, &amp;#34;is a prime number&amp;#34;) Math Calculus [\int_{a}^{b} f(x) dx = F(b) - F(a)]</description>
+            <description>First posts Programming C programming #include &amp;lt;stdio.h&amp;gt; int main(int argc,char* argv[]){ printf(&amp;#34;hello world bitch&amp;#34;); return EXIT_SUCCESFULLY; } Python programming # prime numbers are greater than 1 if num &amp;gt; 1: # check for factors for i in range(2, num): if (num % i) == 0: # if factor is found, set flag to True flag = True # break out of loop break # check if flag is True if flag: print(num, &amp;#34;is not a prime number&amp;#34;) else: print(num, &amp;#34;is a prime number&amp;#34;) Math Calculus [\int_{a}^{b} f(x) dx = F(b) - a(F)]</description>
             <content type="html"><![CDATA[<h1 id="first-posts">First posts</h1>
 
 <h2 id="programming">Programming</h2>
@@ -46,7 +46,7 @@
 
 <h3 id="calculus">Calculus</h3>
 
-<p>[\int_{a}^{b} f(x) dx = F(b) - F(a)]</p>
+<p>[\int_{a}^{b} f(x) dx = F(b) - a(F)]</p>
 ]]></content>
         </item>
         
