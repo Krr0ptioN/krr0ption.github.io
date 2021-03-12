@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Krr0ptioN Blog</title>
-    
-    
-    
+    <title>Krr0ptioN</title>
     <link>https://krr0ption.com/</link>
-    <description>Recent content on Krr0ptioN Blog</description>
+    <description>Recent content on Krr0ptioN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://krr0ption.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 12 Mar 2021 08:47:11 +0100</lastBuildDate><atom:link href="https://krr0ption.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://krr0ption.com/posts/2021/03/my-first-post/</link>
+      <pubDate>Fri, 12 Mar 2021 08:47:11 +0100</pubDate>
+      
+      <guid>https://krr0ption.com/posts/2021/03/my-first-post/</guid>
+      <description>First posts Programming C programming #include &amp;lt;stdio.h&amp;gt; int main(int argc,char* argv[]){ printf(&amp;#34;hello world bitch&amp;#34;); return EXIT_SUCCESFULLY; } Python programming # prime numbers are greater than 1 if num &amp;gt; 1: # check for factors for i in range(2, num): if (num % i) == 0: # if factor is found, set flag to True flag = True # break out of loop break # check if flag is True if flag: print(num, &amp;#34;is not a prime number&amp;#34;) else: print(num, &amp;#34;is a prime number&amp;#34;) Math Calculus [\int_{a}^{b} f(x) dx = F(b) - F(a)]</description>
+    </item>
     
     <item>
       <title></title>
@@ -19,18 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://krr0ption.com/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          About I am Mardin Nasouti
-          
-        
-        </description>
+      <description>About I am Mardin Nasouti</description>
     </item>
     
   </channel>
